@@ -1,0 +1,16 @@
+C:\Users\mspon\Documents\courses\microsoft-learn\RolarDados\DiceRoll\bin\Debug\net5.0\DiceRoll.exe
+C:\Users\mspon\Documents\courses\microsoft-learn\RolarDados\DiceRoll\bin\Debug\net5.0\DiceRoll.deps.json
+C:\Users\mspon\Documents\courses\microsoft-learn\RolarDados\DiceRoll\bin\Debug\net5.0\DiceRoll.runtimeconfig.json
+C:\Users\mspon\Documents\courses\microsoft-learn\RolarDados\DiceRoll\bin\Debug\net5.0\DiceRoll.runtimeconfig.dev.json
+C:\Users\mspon\Documents\courses\microsoft-learn\RolarDados\DiceRoll\bin\Debug\net5.0\DiceRoll.dll
+C:\Users\mspon\Documents\courses\microsoft-learn\RolarDados\DiceRoll\bin\Debug\net5.0\ref\DiceRoll.dll
+C:\Users\mspon\Documents\courses\microsoft-learn\RolarDados\DiceRoll\bin\Debug\net5.0\DiceRoll.pdb
+C:\Users\mspon\Documents\courses\microsoft-learn\RolarDados\DiceRoll\obj\Debug\net5.0\DiceRoll.csprojAssemblyReference.cache
+C:\Users\mspon\Documents\courses\microsoft-learn\RolarDados\DiceRoll\obj\Debug\net5.0\DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mspon\Documents\courses\microsoft-learn\RolarDados\DiceRoll\obj\Debug\net5.0\DiceRoll.AssemblyInfoInputs.cache
+C:\Users\mspon\Documents\courses\microsoft-learn\RolarDados\DiceRoll\obj\Debug\net5.0\DiceRoll.AssemblyInfo.cs
+C:\Users\mspon\Documents\courses\microsoft-learn\RolarDados\DiceRoll\obj\Debug\net5.0\DiceRoll.csproj.CoreCompileInputs.cache
+C:\Users\mspon\Documents\courses\microsoft-learn\RolarDados\DiceRoll\obj\Debug\net5.0\DiceRoll.dll
+C:\Users\mspon\Documents\courses\microsoft-learn\RolarDados\DiceRoll\obj\Debug\net5.0\ref\DiceRoll.dll
+C:\Users\mspon\Documents\courses\microsoft-learn\RolarDados\DiceRoll\obj\Debug\net5.0\DiceRoll.pdb
+C:\Users\mspon\Documents\courses\microsoft-learn\RolarDados\DiceRoll\obj\Debug\net5.0\DiceRoll.genruntimeconfig.cache
