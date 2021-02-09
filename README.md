@@ -1,6 +1,6 @@
  # Jogo de Dados # 
 
-Nesse jogo 3 dados são lançados simultaneamente, se o valor total for maior que 15 você vence, caso contrário você perde.
+Nesse jogo 3 dados são lançados simultaneamente.
 Se quaisquer dois dados rolados resultarem no mesmo valor, você receberá dois pontos de bônus pelo resultado duplicado.
 Se os três dados rolados resultarem no mesmo valor, você receberá seis pontos de bônus pelo resultado triplicado.
 Vamos conceder prêmios fictícios para cada pontuação. Ofereceremos quatro prêmios. O jogador deve ganhar apenas um prêmio.
